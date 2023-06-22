@@ -1,8 +1,7 @@
 # Crime Aegis
 
 
-<img alt="2023-05-29 (4)" src="[https://drive.google.com/file/d/1sC19kn0qhjxHirbNwwSgb7WSNk1AH0UR/view?usp=sharing](https://drive.google.com/file/d/1sC19kn0qhjxHirbNwwSgb7WSNk1AH0UR/view)">
-
+<img src="https://drive.google.com/file/d/1sC19kn0qhjxHirbNwwSgb7WSNk1AH0UR/view">
 
 This is a Java-based application built using Hibernate framework that allows users to manage and track crime-related information. It provides functionalities to add, retrieve, update, and delete crime records, and manage crime, criminal, victim, and police station-related information.
 
