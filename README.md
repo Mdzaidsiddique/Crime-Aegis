@@ -1,8 +1,7 @@
 # Crime Aegis
 
-<img src="images/banner.png" height="200px">
 
-<img width="960" alt="2023-05-29 (4)" src="https://github.com/Mdzaidsiddique/Crime-Aegis/blob/main/images/banner.png"/>
+<img alt="2023-05-29 (4)" src="https://drive.google.com/file/d/1sC19kn0qhjxHirbNwwSgb7WSNk1AH0UR/view?usp=sharing">
 
 ![Project Logo](https://github.com/Mdzaidsiddique/Crime-Aegis/blob/main/images/banner.png)
 
